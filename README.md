@@ -211,7 +211,7 @@ Este módulo teve como objetivo o desenvolvimento de um Design System, utilizand
       <tr>
          <td align="center">
             <h4>Ignite JS UI</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-js-ui">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-js-ui">
                <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_js_ui.png" />
             </a>
          </td>
