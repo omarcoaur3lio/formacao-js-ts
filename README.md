@@ -182,7 +182,7 @@ Nesse módulo foi desenvolvido um projeto completo com o framework Next.js. Nele
       <tr>
          <td align="center">
             <h4>Ignite Shop</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-shop">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-shop">
                <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_ignite_shop.png" />
             </a>
          </td>
