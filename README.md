@@ -52,13 +52,13 @@ Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.
       <tr>
          <td align="center">
             <h4>Ignite Feed</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-feed">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-feed">
                <img alt="Ignite Feed" src=".github/cover_ignite_feed.png" />
             </a>
          </td>
          <td align="center">
             <h4>Ignite ToDo</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-todo">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-todo">
                <img alt="Ignite Feed" src=".github/cover_ignite_todo.png" />
             </a>
          </td>
