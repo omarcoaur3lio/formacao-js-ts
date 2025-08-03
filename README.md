@@ -158,7 +158,7 @@ Messe módulo foi desenvolvido um projeto com foco em exercitar os conceitos sob
       <tr>
          <td align="center">
             <h4>Pizza Shop</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/pizzashop">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/pizzashop">
                <img alt="Pizza Shop"  width="60%" src=".github/cover_pizza_shop.png" />
             </a>
          </td>
