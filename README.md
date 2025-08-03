@@ -88,13 +88,13 @@ Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diverso
       <tr>
          <td align="center">
             <h4>Ignite Timer</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-timer">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-timer">
                <img alt="Ignite Feed" src=".github/cover_ignite_timer.png" />
             </a>
          </td>
          <td align="center">
             <h4>Coffee Delivery</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/coffee-delivery">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/coffee-delivery">
                <img alt="Ignite Feed" src=".github/cover_coffee_delivery.png" />
             </a>
          </td>
