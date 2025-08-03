@@ -124,13 +124,13 @@ Nesse módulo foi contruído uma aplicação front-end web completa e conectada 
       <tr>
          <td align="center">
             <h4>DT-Money</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/dt-money">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/dt-money">
                <img alt="DT-Money" src=".github/cover_dt_money.png" />
             </a>
          </td>
          <td align="center">
             <h4>Github Blog</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/github-blog">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/github-blog">
                <img alt="Github Blog" src=".github/cover_github_blog.png" />
             </a>
          </td>
