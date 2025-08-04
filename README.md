@@ -248,3 +248,33 @@ Com essa aplicação é possível criar uma lista de hábitos para incorporar à
       </tr>
    </tbody>
 </table>
+
+### NLW Copa
+
+Aplicação full-stack onde podemos criar "bolões" para realização de palpites dos jogos da copa do mundo de futebol 2022. A aplicação conta com uma interface Web feita em React (apenas para criação de bolões), um back-end desenvolvido em Node.js e um App mobile feito em React Native.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nlw-copa">
+               <img alt="Notes"  width="90%" src=".github/nlw-copa.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de Javascript/Typescript</li>
+               <li>Uso de TailwindCSS</li>
+               <li>Utilização da biblioteca NativeWind</li>
+               <li>Utilização da biblioteca Reanimated</li>
+               <li>Uso do Fastify</li>
+               <li>Uso do Prima ORM + Zod</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>

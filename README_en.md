@@ -249,3 +249,33 @@ With this application, you can create a list of habits to incorporate into your 
       </tr>
    </tbody>
 </table>
+
+### NLW Copa
+
+Full-stack application where we can create "pools" to make predictions for the 2022 World Cup matches. The application has a Web interface made in React (only for creating pools), a back-end developed in Node.js and a mobile App made in React Native.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nlw-copa">
+               <img alt="Notes"  width="90%" src=".github/nlw-copa.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li>
+               <li>Using TailwindCSS</li>
+               <li>Using the NativeWind library</li>
+               <li>Using the Reanimated library</li>
+               <li>Using Fastify</li>
+               <li>Using Prima ORM + Zod</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
