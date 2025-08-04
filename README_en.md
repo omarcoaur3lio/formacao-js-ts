@@ -140,3 +140,30 @@ A full-stack application (backend, web, and mobile) for managing attendees in in
       </tr>
    </tbody>
 </table>
+
+### NLW Notes
+
+Application for creating text notes or transcribing audio to text using the browser's native SpeechRecognition API.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nlw-notes">
+               <img alt="Notes"  width="90%" src=".github/notes.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>React Fundamentals (states, properties, immutability, etc.)</li>
+               <li>Using LocalStorage</li>
+               <li>Using the SpeechRecognition API</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
