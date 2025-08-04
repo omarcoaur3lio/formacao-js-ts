@@ -35,7 +35,7 @@ A benefits club app, similar to iFood, where you can find nearby partner establi
       <tr>
          <td align="center">
             <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nearby">
-               <img alt="nearby"  width="70%" src=".github/nearby.png" />
+               <img alt="Nearby"  width="70%" src=".github/nearby.png" />
             </a>
          </td>
          <td>
@@ -43,6 +43,36 @@ A benefits club app, similar to iFood, where you can find nearby partner establi
                <li>Kotlin Language Fundamentals</li>
                <li>Jetpack Compose Fundamentals</li>
                <li>Using the Coil library for performant image loading</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### in.orbit
+
+Web application for registering goals to be achieved during the week.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives:</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/in.orbit">
+               <img alt="in-orbit"  width="90%" src=".github/in-orbit.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript Fundamentals with React</li>
+               <li>Styling with TailwindCSS</li>
+               <li>API Consumption Using React Query</li>
+               <li>API Creation with Fastify</li>
+               <li>Using Drizzle ORM</li>
+               <li>SQL Query Development for PostgreSQL Databases</li>
             </ul>
          </td>
       </tr>

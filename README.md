@@ -35,7 +35,7 @@ Aplicativo de clube de benefícios, semelhante ao iFood, onde você pode encontr
       <tr>
          <td align="center">
             <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nearby">
-               <img alt="Pizza Shop"  width="70%" src=".github/nearby.png" />
+               <img alt="Nearby"  width="70%" src=".github/nearby.png" />
             </a>
          </td>
          <td>
@@ -43,6 +43,36 @@ Aplicativo de clube de benefícios, semelhante ao iFood, onde você pode encontr
                <li>Fundamentos da linguagem Kotlin</li>
                <li>Fundamentos do Jetpack Compose</li>
                <li>Uso da biblioteca Coil para carregamento performático de imagens</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### in.orbit
+
+Aplicativo web para cadastro de metas a serem alcançadas durante a semana.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos:</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/in.orbit">
+               <img alt="in-orbit"  width="90%" src=".github/in-orbit.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Funtamentos de Javascript com React</li>
+               <li>Estilização com TailwindCSS</li>
+               <li>Consumo de APIs com uso do React Query</li>
+               <li>Criação de API com Fastify</li>
+               <li>Utilização do Drizzle ORM</li>
+               <li>Desenvolvimento de queries SQL para consultas em banco PostgreSQL</li>
             </ul>
          </td>
       </tr>
