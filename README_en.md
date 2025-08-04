@@ -333,3 +333,31 @@ The App aims to be a means of sending feedback to the application in which it is
       </tr>
    </tbody>
 </table>
+
+### Letmeask
+
+The app aims to help content creators receive questions through the platform's ranking system based on likes ✨.
+
+How does it work? Create a room to receive questions. Once created, a code will be generated, and you can share it so others can join the room and submit questions.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/letmeask">
+               <img alt="Notes"  width="80%" src=".github/letmeask.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li>
+               <li>Using Firebase</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>

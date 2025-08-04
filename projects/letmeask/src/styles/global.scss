@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: background-color 0.6s ease,  color 0.6s ease, box-shadow 0.6s ease, fill 0.6s ease, filter 0.2s;
+}
+
+body {
+  background-color: #f8f8f8;
+  color: #29292e;
+  
+  .dark {
+    background-color: #333;
+    color: #fff;
+  }
+
+  path.dark{
+    fill: #fff;
+  }
+
+  .darkBTN{
+    stroke: #835AFD;
+  }
+
+}
+
+body, input, button, textarea {
+  font: 400 16px 'Roboto', sans-serif;
+}

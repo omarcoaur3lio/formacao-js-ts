@@ -332,3 +332,31 @@ O App tem o objetivo de ser um meio para envios de feedbacks à aplicação na q
       </tr>
    </tbody>
 </table>
+
+### Letmeask
+
+A aplicação tem como objetivo ajudar os criadores de conteúdo na obtenção de perguntas por meio da plataforma com sistema de ranqueamento com base em curtidas ✨.
+
+Como funciona? Crie uma sala para receber perguntas. Ao criar, um código será gerado e você poderá compartilhá-lo para que outras pessoas possam entrar na sala e mandar perguntas.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/letmeask">
+               <img alt="Notes"  width="80%" src=".github/letmeask.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de Javascript/Typescript</li>
+               <li>Uso do Firebase</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
