@@ -194,3 +194,29 @@ The project consists of a generator of video descriptions and titles based on th
       </tr>
    </tbody>
 </table>
+
+### Bora Codar
+
+This project contains small software development challenges, covering various topics, technologies, libraries, etc.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/bora-codar">
+               <img alt="Notes"  width="90%" src=".github/bora-codar.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li> 
+               <li>Use of HTML/CSS</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>

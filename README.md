@@ -18,7 +18,7 @@
 
 O objetivo dessa branch é armazenar projetos desenvolvidos em caráter de estudo, podendo ser de um conceito, tecnologia, padrão de projeto ou metodologia de desenvolvimento.
 
-# 📚 Projetos
+# 🧬 Projetos
 
 Clique nas screenshots dos projetos para acessar o código-fonte do projeto.
 
@@ -188,6 +188,32 @@ O projeto consiste em um gerador de descrições e títulos de vídeos a partir 
                <li>Fundamentos de React</li>
                <li>Criação de interface com RadixUI</li>
                <li>Utilização da API da OpenAI</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### Bora Codar
+
+Nesse projeto estão contidos pequenos desafios de desenvolvimento de software, abordando diversos assuntos, tecnologias, bibliotecas, etc.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/bora-codar">
+               <img alt="Notes"  width="90%" src=".github/bora-codar.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de Javascript/Typescript</li>
+               <li>Uso de HTML/CSS</li>
             </ul>
          </td>
       </tr>

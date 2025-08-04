@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+:root {
+  --bg-color: #D9CBF6;
+  --text-color: #271A45;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color: var(--bg-color);
+}
+
+body * {
+  color: var(--text-color);
+  font-family: 'Lato', sans-serif;
+  line-height: 100%;
+}
+

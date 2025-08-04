@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/phosphor-icons"></script>
+  <title>Chat</title>
+</head>
+<body>
+  <div id="app">
+    
+      <div id="top">
+        <div id="user-info">
+          <img src="https://randomuser.me/api/portraits/women/12.jpg" alt="Foto do usuário logado">
+          <div id="user-status">
+             <strong>Maria Sassaki</strong>
+             <div class="status">
+              Online
+             </div>
+          </div>
+        </div>
+        <div id="close-chat">
+          <i class="ph-x-fill"></i>
+        </div>
+      </div>
+      <div id="messages">
+        <div id="last-seen">Hoje 15:00</div>
+
+        <div class="messages">
+          
+          <div class="message">
+            <div class="message-send-date">Maria Sassaki - 15:00</div>
+            <div class="message-content">Tive uma ideia incrível para um projeto! 😍</div>
+          </div>
+          
+          <div class="message sent-message">
+            <div class="message-send-date">Você - 15:05</div>
+            <div class="message-content">Sério? Me conta mais.</div>
+          </div>
+          
+          
+          <div class="message">
+            <div class="message-send-date">Maria Sassaki - 15:10</div>
+            <div class="message-content">E se a gente fizesse um chat moderno e responsivo em apenas uma semana?</div>
+          </div>
+          
+          <div class="message sent-message">
+            <div class="message-send-date">Você - 15:12</div>
+            <div class="message-content"><strong>#boraCodar! 🚀</strong></div>
+          </div>
+
+        </div>
+      </div>
+      <form id="bottom">
+            <input type="text" placeholder="Digite sua mensagem">
+            <button>
+              <i class="ph-paper-plane-right-fill"></i>
+            </button>
+      </form>
+    
+  </div>
+</html>
