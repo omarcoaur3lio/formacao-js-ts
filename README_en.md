@@ -292,7 +292,7 @@ This application aims to register tasks (or requests 🙃) to be performed/fulfi
       </tr>
       <tr>
          <td align="center">
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/synter-help">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/synterhelp">
                <img alt="Notes"  width="90%" src=".github/synter-help.png" />
             </a>
          </td>
@@ -302,6 +302,32 @@ This application aims to register tasks (or requests 🙃) to be performed/fulfi
                <li>Using Expo</li>
                <li>Expo bare workflow</li>
                <li>Using NativeBase</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### FeedbackWidget
+
+The App aims to be a means of sending feedback to the application in which it is inserted, be it web or mobile.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/FeedbackWidget">
+               <img alt="Notes"  width="90%" src=".github/FeedbackWidget.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li> 
+               <li>Using Vite</li>
             </ul>
          </td>
       </tr>
