@@ -166,3 +166,30 @@ Aplicação para criação de notas de texto ou realização a transcrição de 
       </tr>
    </tbody>
 </table>
+
+### Upload.ai
+
+O projeto consiste em um gerador de descrições e títulos de vídeos a partir da transcrição de seu conteúdo usando inteligência artificial.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/upload-ai">
+               <img alt="Notes"  width="90%" src=".github/uploadai.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de React</li>
+               <li>Criação de interface com RadixUI</li>
+               <li>Utilização da API da OpenAI</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>

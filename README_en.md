@@ -167,3 +167,30 @@ Application for creating text notes or transcribing audio to text using the brow
       </tr>
    </tbody>
 </table>
+
+### Upload.ai
+
+The project consists of a generator of video descriptions and titles based on the transcription of their content using artificial intelligence.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/upload-ai">
+               <img alt="Notes"  width="90%" src=".github/uploadai.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>React Fundamentals</li>
+               <li>Creating an interface with RadixUI</li>
+               <li>Using the OpenAI API</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
