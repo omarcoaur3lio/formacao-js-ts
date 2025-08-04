@@ -30,7 +30,7 @@ A benefits club app, similar to iFood, where you can find nearby partner establi
     <tbody>
       <tr>
          <td><h4>Screenshot</h4></td>
-         <td width="50%"><h4>Objectives:</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
       </tr>
       <tr>
          <td align="center">
@@ -57,7 +57,7 @@ Web application for registering goals to be achieved during the week.
     <tbody>
       <tr>
          <td><h4>Screenshot</h4></td>
-         <td width="50%"><h4>Objectives:</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
       </tr>
       <tr>
          <td align="center">
@@ -88,7 +88,7 @@ An application for planning trips with friends, recording activities, and sharin
     <tbody>
       <tr>
          <td><h4>Screenshot</h4></td>
-         <td width="50%"><h4>Objectives:</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
       </tr>
       <tr>
          <td align="center">
@@ -104,6 +104,37 @@ An application for planning trips with friends, recording activities, and sharin
                <li>API Creation with Fastify</li>
                <li>Error Handling</li>
                <li>Sending Email with NodeMailer</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### Pass.in
+
+A full-stack application (backend, web, and mobile) for managing attendees in in-person events. The tool allows organizers to register an event and open a public registration page. Registered attendees can issue a check-in pass on the day of the event. The system will scan the attendee's pass to allow entry to the event.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/pass.in">
+               <img alt="Pass.in"  width="90%" src=".github/passin.svg" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>React Fundamentals (state, properties, immutability, etc.)</li>
+               <li>Using LocalStorage</li>
+               <li>Using URL State</li>
+               <li>Using Expo</li>
+               <li>Using NativeWind</li>
+               <li>Data Persistence with Zustand and AsyncStorage</li>
+               <li>Animations with React Reanimated and Moti</li>
             </ul>
          </td>
       </tr>

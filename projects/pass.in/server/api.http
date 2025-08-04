@@ -1,0 +1,34 @@
+POST http://localhost:3333/events
+Content-Type: application/json
+
+{
+  "title": "Evento de uma pessoa",
+  "details": "Esse é um evento para solitarios",
+  "maximumAttendees": 1
+}
+
+###
+
+POST http://localhost:3333/events/e59c1608-97a5-4b0a-b4ab-be0ed6154074/attendees
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "email": "jane@doe.com"
+}
+
+###
+
+GET http://localhost:3333/events/94e18ea0-7ee8-4a54-a27c-9f0b96f7d871
+
+###
+
+GET http://localhost:3333/attendees/2/badge
+
+###
+
+GET http://localhost:3333/attendees/2/check-in
+
+###
+
+GET http://localhost:3333/events/94e18ea0-7ee8-4a54-a27c-9f0b96f7d871/attendees?query=João
