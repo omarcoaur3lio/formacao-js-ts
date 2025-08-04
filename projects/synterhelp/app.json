@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "synterhelp",
+    "slug": "synterhelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.synterhelp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.synterhelp",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}

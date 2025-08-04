@@ -278,3 +278,31 @@ Aplicação full-stack onde podemos criar "bolões" para realização de palpite
       </tr>
    </tbody>
 </table>
+
+### Synter Help
+
+Essa aplicação tem como objetivo o cadastro de tarefas (ou solicitações 🙃) para serem realizadas/atendidas. O App permite o cadastro de novas solicitações além da exibição das tarefas cadastradas filtradas pelo seu estado (em andamento ou concluída).
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/synter-help">
+               <img alt="Notes"  width="90%" src=".github/synter-help.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de Javascript/Typescript</li>
+               <li>Uso de Expo</li>
+               <li>Expo bare workflow</li>
+               <li>Utilização da NativeBase</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
