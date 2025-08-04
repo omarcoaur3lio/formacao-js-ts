@@ -361,3 +361,29 @@ How does it work? Create a room to receive questions. Once created, a code will 
       </tr>
    </tbody>
 </table>
+
+### Podcastr
+
+Podcastr is an application designed to serve as a podcast website. This application allows you to practice techniques such as audio handling, static page generation, and connection to the application's backend.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/podcastr">
+               <img alt="Notes"  width="80%" src=".github/podcastr.gif" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li> 
+               <li>Using NextJS</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>

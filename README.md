@@ -360,3 +360,29 @@ Como funciona? Crie uma sala para receber perguntas. Ao criar, um código será 
       </tr>
    </tbody>
 </table>
+
+### Podcastr
+
+O Podcastr é uma aplicação desenvolvida para servir como site de um podcast. Nessa aplicação foi possível praticar técnicas como: Manuseio de áudios, geração de páginas estáticas e conexão com back-end da aplicação.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/podcastr">
+               <img alt="Notes"  width="80%" src=".github/podcastr.gif" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de Javascript/Typescript</li>
+               <li>Uso do NextJS</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
