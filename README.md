@@ -67,12 +67,42 @@ Aplicativo web para cadastro de metas a serem alcançadas durante a semana.
          </td>
          <td>
             <ul>
-               <li>Funtamentos de Javascript com React</li>
+               <li>Fundamentos de Javascript com React</li>
                <li>Estilização com TailwindCSS</li>
                <li>Consumo de APIs com uso do React Query</li>
                <li>Criação de API com Fastify</li>
                <li>Utilização do Drizzle ORM</li>
                <li>Desenvolvimento de queries SQL para consultas em banco PostgreSQL</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### Planner
+
+Aplicação para montar planos de viagem com amigos, registrar atividades e links úteis. O projeto front-end foi desenvolvido em React e a API em NodeJS.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos:</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/plann.er">
+               <img alt="in-orbit"  width="90%" src=".github/planner.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de React</li>
+               <li>Estilização com TailwindCSS</li>
+               <li>Consumo de APIs com Axios</li>
+               <li>Criação de API com Fastify</li>
+               <li>Tratamento de erros</li>
+               <li>Envio de e-mail com nodemailer</li>
             </ul>
          </td>
       </tr>

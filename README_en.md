@@ -78,3 +78,34 @@ Web application for registering goals to be achieved during the week.
       </tr>
    </tbody>
 </table>
+
+
+### Planner
+
+An application for planning trips with friends, recording activities, and sharing useful links. The front-end project was developed in React, and the API was developed in NodeJS.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives:</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/plann.er">
+               <img alt="in-orbit"  width="90%" src=".github/planner.png" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>React Fundamentals</li>
+               <li>Styling with TailwindCSS</li>
+               <li>API Consumption with Axios</li>
+               <li>API Creation with Fastify</li>
+               <li>Error Handling</li>
+               <li>Sending Email with NodeMailer</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
