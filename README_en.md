@@ -18,7 +18,7 @@
 
 The purpose of this branch is to store projects developed as a study, which may be of a concept, technology, design pattern or development methodology.
 
-# 📚 Projects
+# 🧬 Projects
 
 Click on the project screenshots to access the project source code.
 
@@ -382,6 +382,33 @@ Podcastr is an application designed to serve as a podcast website. This applicat
             <ul>
                <li>Javascript/Typescript Fundamentals</li> 
                <li>Using NextJS</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### Happy
+
+Happy: Bring happiness to the world, visit orphanages, and change the lives of many children — is a full-stack application designed to help users find orphanages near their location and register new orphanages.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/happy">
+               <img alt="Notes"  width="90%" src=".github/happy.gif" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li> 
+               <li>Expo</li>
+               <li>React Native</li>
             </ul>
          </td>
       </tr>

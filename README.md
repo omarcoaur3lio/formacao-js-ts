@@ -386,3 +386,30 @@ O Podcastr é uma aplicação desenvolvida para servir como site de um podcast. 
       </tr>
    </tbody>
 </table>
+
+### Happy
+
+O Happy: Leve felicidade para o mundo, visite orfanatos e mude a vida de muitas crianças — é uma aplicação full-stack idealizada para que os usuários encontrem orfanatos próximos a sua localização, assim como possam realizar o cadastro de novos orfanatos.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/happy">
+               <img alt="Notes"  width="90%" src=".github/happy.gif" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de React/Typescript</li>
+               <li>Expo</li>
+               <li>React Native</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
