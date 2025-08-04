@@ -219,3 +219,32 @@ Nesse projeto estão contidos pequenos desafios de desenvolvimento de software, 
       </tr>
    </tbody>
 </table>
+
+### Habits
+
+Com essa aplicação é possível criar uma lista de hábitos para incorporar à sua rotina, e acompanhar através do resumo apresentado na aplicação, a frequência com que cada hábito está sendo praticado, permitindo que você visualize seu progresso ao longo do tempo e se motive a seguir em frente.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objetivos</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nlw-setup">
+               <img alt="Notes"  width="90%" src=".github/nlw-setup.svg" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Fundamentos de Javascript/Typescript</li>
+               <li>Uso de TailwindCSS</li>
+               <li>Utilização da biblioteca NativeWind</li>
+               <li>Utilização da biblioteca Reanimated</li>
+               <li>Uso do Fastify</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>

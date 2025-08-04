@@ -220,3 +220,32 @@ This project contains small software development challenges, covering various to
       </tr>
    </tbody>
 </table>
+
+### Habits
+
+With this application, you can create a list of habits to incorporate into your routine, and track, through the summary presented in the application, how often each habit is being practiced, allowing you to visualize your progress over time and motivate yourself to move forward.
+
+<table>
+    <tbody>
+      <tr>
+         <td><h4>Screenshot</h4></td>
+         <td width="50%"><h4>Objectives</h4></td>
+      </tr>
+      <tr>
+         <td align="center">
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/workshops/projects/nlw-setup">
+               <img alt="Notes"  width="90%" src=".github/nlw-setup.svg" />
+            </a>
+         </td>
+         <td>
+            <ul>
+               <li>Javascript/Typescript Fundamentals</li>
+               <li>Using TailwindCSS</li>
+               <li>Using the NativeWind library</li>
+               <li>Using the Reanimated library</li>
+               <li>Using Fastify</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
