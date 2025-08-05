@@ -5,20 +5,20 @@
 <p align="center">
 
    <a href="./README_en.md">
-      <img alt="English" src="https://img.shields.io/badge/-Read in english -000?style=flat&logo=google-translate&logoColor=FFF&labelColor=0D1117" />
+      <img alt="English" src="https://img.shields.io/badge/-Read in english -0D1117?style=flat&logo=google-translate&logoColor=FFF&labelColor=0D1117" />
    </a>
 
   <a href="https://github.com/omarcoaur3lio/formacao-js-ts/commits/main">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/omarcoaur3lio/formacao-js-ts?style=flat&logo=github&color=000&logoColor=FFF&labelColor=0D1117" />
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/omarcoaur3lio/formacao-js-ts?style=flat&logo=github&color=0D1117&logoColor=FFF&labelColor=0D1117" />
   </a>
 
    <a href="https://www.linkedin.com/in/omarcoaur3lio/">
-      <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=polestar&logoColor=FFF&labelColor=0D1117" />
+      <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-0D1117?style=flat&logo=polestar&logoColor=FFF&labelColor=0D1117" />
    </a>
 
-   <img alt="Repository size" src="https://img.shields.io/github/repo-size/omarcoaur3lio/formacao-js-ts?style=flat&logo=hackthebox&logoColor=FFF&labelColor=0D1117&color=000">
+   <img alt="Repository size" src="https://img.shields.io/github/repo-size/omarcoaur3lio/formacao-js-ts?style=flat&logo=hackthebox&logoColor=FFF&labelColor=0D1117&color=0D1117">
 
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-000?style=flat&logo=googledocs&logoColor=FFF&labelColor=0D1117&color=000">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-0D1117?style=flat&logo=googledocs&logoColor=FFF&labelColor=0D1117&color=0D1117">
 
 </p>
 
