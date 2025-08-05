@@ -22,6 +22,8 @@
 
 </p>
 
+<br><br>
+
 ## 📚 Sobre
 
 Este repositório centraliza exercícios, desafios e projetos práticos envolvendo:
@@ -34,6 +36,8 @@ Este repositório centraliza exercícios, desafios e projetos práticos envolven
 O objetivo é acompanhar a evolução contínua com a stack JavaScript.
 
 ## 🌳 Branches
+
+Os projetos contidos nesse repositórios estão divididos em branches:
 
 - [`main`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/main) → Estrutura base e ponto de partida para novas trilhas.
 - [`ignite-trilha-2022`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/ignite-trilha-2022) → Projetos da trilha **Ignite 2022** da Rocketseat.
