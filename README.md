@@ -24,200 +24,34 @@
 
 O Ignite :rocket: é um programa para estudo de novas tecnologias, através de um currículo extremamente prático, que impulsiona seus alunos através de uma metodologia de aprendizado eficiente baseada em **Foco**, **Prática** e **Grupo**, sempre pensando nos desafios do mundo real.
 
-Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (_soft skills_). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
-
-#### :loudspeaker: Aviso
-
-Este repositório está dividido em duas branches (`trilha-2021` e `trilha-2022`), pois durante o seu desenvolvimento, o conteúdo do curso foi atualizado.
-
 # Trilha React
 
 A trilha React é focada nos principais conceitos e tecnologias de front-end, onde aprendemos a construir interfaces modernas e reativas de forma modular e escalável.
 
-## 📚 Capítulos
+## 📚 Níveis
 
-### :rocket: Chapter I
+### :rocket: Nível I
 **Fundamentos do React.js**
 <br>
-Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.dev/) e aprendemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
+Nesse módulo foi estudado DOM x Virtual DOM, árvore de renderização, reconciliação, como reutilizar código por meio de componentes e as formas de rodar projetos com React.
 
 <table>
     <tbody>
         <tr>
             <td><h3>:computer: Projeto</h3></td>
-            <td><h3>:crossed_swords: Desafio</h3></td>
             <td><h3>:heavy_check_mark: Quiz</h3></td>
         </tr>
      </tr>
       <tr>
          <td align="center">
             <h4>Ignite Feed</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-feed">
-               <img alt="Ignite Feed" src=".github/cover_ignite_feed.png" />
-            </a>
-         </td>
-         <td align="center">
-            <h4>Ignite ToDo</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-todo">
-               <img alt="Ignite Feed" src=".github/cover_ignite_todo.png" />
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2025/projects/calculator">
+               <img alt="Ignite Feed" src=".github/calculator.png" />
             </a>
          </td>
          <td>
             <a href="./quizzes/quiz_chapter_one.md">
                <img alt="Quiz chapter one" src=".github/quiz_chapter_one.png" />
-            </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
-### :rocket: Chapter II
-
-**Criando SPAs com ReactJS**
-<br />
-Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diversos conceitos importantes do ecossistema React como ContextAPI, useReducer, immer mais.
-
-<table>
-    <tbody>
-        <tr>
-            <td><h3>:computer: Projeto</h3></td>
-            <td><h3>:crossed_swords: Desafio</h3></td>
-            <td><h3>:heavy_check_mark: Quiz</h3></td>
-        </tr>
-     </tr>
-      <tr>
-         <td align="center">
-            <h4>Ignite Timer</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-timer">
-               <img alt="Ignite Feed" src=".github/cover_ignite_timer.png" />
-            </a>
-         </td>
-         <td align="center">
-            <h4>Coffee Delivery</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/coffee-delivery">
-               <img alt="Ignite Feed" src=".github/cover_coffee_delivery.png" />
-            </a>
-         </td>
-         <td>
-            <a href="./quizzes/quiz_chapter_two.md">
-               <img alt="Quiz chapter two" src=".github/quiz_chapter_two.png" />
-            </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
-### :rocket: Chapter III
-
-**HTTP e Performance**
-<br />
-Nesse módulo foi contruído uma aplicação front-end web completa e conectada a uma API. Foram aplicados conceitos focados em performance de aplicações React, entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
-
-<table>
-    <tbody>
-        <tr>
-            <td><h3>:computer: Projeto</h3></td>
-            <td><h3>:crossed_swords: Desafio</h3></td>
-            <td><h3>:heavy_check_mark: Quiz</h3></td>
-        </tr>
-     </tr>
-      <tr>
-         <td align="center">
-            <h4>DT-Money</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/dt-money">
-               <img alt="DT-Money" src=".github/cover_dt_money.png" />
-            </a>
-         </td>
-         <td align="center">
-            <h4>Github Blog</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/github-blog">
-               <img alt="Github Blog" src=".github/cover_github_blog.png" />
-            </a>
-         </td>
-         <td>
-            <a href="./quizzes/quiz_chapter_three.md">
-               <img alt="Quiz chapter three" src=".github/quiz_chapter_three.png" />
-            </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
-### :rocket: Chapter IV
-
-**Integrando Frontend - Backend**
-<br />
-Messe módulo foi desenvolvido um projeto com foco em exercitar os conceitos sobre o React, comunicação com APIs através de requisições HTTP, testes unitários e testes E2E com Playwright . O projeto é desenvolvido utilizando Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest e mais!
-
-<table>
-    <tbody>
-        <tr>
-            <td><h3>:computer: Projeto</h3></td>
-        </tr>
-     </tr>
-      <tr>
-         <td align="center">
-            <h4>Pizza Shop</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/pizzashop">
-               <img alt="Pizza Shop"  width="60%" src=".github/cover_pizza_shop.png" />
-            </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
-### :rocket: Chapter V
-
-**Primeiro framework**
-<br />
-Nesse módulo foi desenvolvido um projeto completo com o framework Next.js. Nele foi usado a biblioteca StitchesJS para estilização, além de ter sido colocado em prática os principais conceitos sobre single-page application (SPA), server-side rendering (SSR) e static-site generation (SSG).
-
-<table>
-    <tbody>
-        <tr>
-            <td><h3>:crossed_swords: Desafio</h3></td>
-            <td><h3>:heavy_check_mark: Quiz</h3></td>
-        </tr>
-     </tr>
-      <tr>
-         <td align="center">
-            <h4>Ignite Shop</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-shop">
-               <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_ignite_shop.png" />
-            </a>
-         </td>
-         <td>
-            <a href="./quizzes/quiz_chapter_five.md">
-               <img alt="Quiz chapter five" src=".github/quiz_chapter_five.png" />
-            </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
-### :rocket: Chapter VI
-
-**Design System**
-<br />
-Este módulo teve como objetivo o desenvolvimento de um Design System, utilizando um monorepo para criação dos pacotes de componentes (Rect), documentação (Storybook), tokens e configurações (Typescript e ESLint). Durante as aulas foram estudadas diversas ferramentas usadas para desenvolvimento e publicação do DS.
-
-<table>
-    <tbody>
-        <tr>
-            <td><h3>:crossed_swords: Desafio</h3></td>
-            <td><h3>:heavy_check_mark: Quiz</h3></td>
-        </tr>
-     </tr>
-      <tr>
-         <td align="center">
-            <h4>Ignite JS UI</h4>
-            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-react/tree/trilha-2022/projects/ignite-js-ui">
-               <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_js_ui.png" />
-            </a>
-         </td>
-         <td>
-            <a href="./quizzes/quiz_chapter_six.md">
-               <img alt="Quiz chapter five" src=".github/quiz_chapter_six.png" />
             </a>
          </td>
       </tr>

@@ -3,5 +3,6 @@
     "commentTranslate.hover.enabled": true,
     "cSpell.enableFiletypes": [
         "markdown"
-    ]
+    ],
+    "idf.pythonInstallPath": "/usr/bin/python3"
 }
