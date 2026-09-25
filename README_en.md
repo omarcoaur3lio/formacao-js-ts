@@ -5,7 +5,7 @@
 <p align="center">
 
    <a href="./README.md">
-      <img alt="Português" src="https://img.shields.io/badge/-Leia em português-212630?style=flat&logo=google-translate&logoColor=FFF&labelColor=0D1117" />
+      <img alt="Português" src="https://img.shields.io/badge/-Leia em português -212630?style=flat&logo=google-translate&logoColor=FFF&labelColor=0D1117" />
    </a>
 
   <a href="https://github.com/omarcoaur3lio/formacao-js-ts/commits/main">
@@ -24,7 +24,7 @@
 
 <br>
 
-## 📚 About
+## About
 
 This repository centralizes exercises, challenges, and practical projects involving:
 
@@ -33,15 +33,16 @@ This repository centralizes exercises, challenges, and practical projects involv
 - ReactJS
 - React Native
 
-The goal is to keep up with the continuous evolution of the JavaScript stack.
+The goal is to track the continuous evolution with the JavaScript stack.
 
-## 🌳 Branches
+## Branches
 
 The projects contained in this repository are divided into branches:
 
-- [`main`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/main) → Base structure and starting point for new trails.
-- [`ignite-trilha-2022`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/ignite-trilha-2022) → Projects from Rocketseat's **Ignite 2022** trail.
-- [`workshops`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/workshops) → Individual projects, events, bootcamps, and tests.
+- [`main`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/main) → Base structure and starting point for new tracks.
+- [`nodejs-ignite-2026`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/nodejs-ignite-2026) → Projects from the **Ignite 2026** track by Rocketseat.
+- [`reactjs-ignite-2025`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/reactjs-ignite-2025) → Projects from the **Ignite 2025** track by Rocketseat.
+- [`reactjs-ignite-2022`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/reactjs-ignite-2022) → Projects from the **Ignite 2022** track by Rocketseat.
+- [`workshops`](https://github.com/omarcoaur3lio/formacao-js-ts/tree/workshops) → Standalone projects, events, bootcamps, and tests.
 
-New branches may emerge as new training sessions begin.
-
+New branches may appear as new trainings are started.
