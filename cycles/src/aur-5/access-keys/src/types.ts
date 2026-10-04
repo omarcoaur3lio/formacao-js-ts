@@ -1,14 +1,11 @@
-// Tipos de domínio do módulo access-keys.
-// ⚠️ Código legado: escrito sem strict mode. Você vai migrá-lo na S4.
-
 export interface VirtualKey {
   id: string;
   lockSerial: string;
   ownerId: string;
-  status: string; // valores usados no sistema: 'active' | 'revoked' | 'expired'
-  validUntil?: string; // ISO 8601. Ausente = chave sem expiração
+  status: string;
+  validUntil?: string;
   createdAt: string;
-  metadata?: any;
+  metadata?: { [key: string]: unknown };
 }
 
 export interface Lock {
@@ -23,5 +20,17 @@ export interface User {
   id: string;
   name: string;
   email: string;
-  role: string; // valores usados no sistema: 'admin' | 'resident' | 'guest'
+  role: string;
 }
+
+export type Paginated<T> = {
+  items: T[];
+  total: number;
+  page: number;
+};
+
+export type ActionResult<T> = {
+  success: boolean;
+  data?: T;
+  error?: string;
+};
