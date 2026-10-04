@@ -1,0 +1,15 @@
+{
+  "name": "access-keys",
+  "version": "1.0.0",
+  "description": "Módulo sintético para a S4 do Ciclo 7 (AUR-5)",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "demo": "tsc -p tsconfig.json && node dist/index.js",
+    "check:strict": "tsc -p tsconfig.strict.json",
+    "baseline": "bash scripts/baseline.sh"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.6"
+  }
+}
