@@ -47,4 +47,80 @@ export function MappedTypes() {
     email: "a@b.com",
   }; // falha, email não faz parte
   type Bad = MyPick<User, "password">; // falha, password não existe em User
+
+  interface VirtualKey {
+    id: string;
+    status: string;
+    validUntil?: string;
+    revokedAt?: string;
+    revokedReason?: string;
+  }
+
+  const k1: VirtualKey = { id: "KEY-1", status: "revoked" }; // compila revogada, mas QUANDO? Falta revokedAt
+  const k2: VirtualKey = { id: "KEY-2", status: "expired" }; // compila expirada, mas expirou em que data? Falta validUntil
+  const k3: VirtualKey = {
+    id: "KEY-3",
+    status: "active",
+    revokedAt: "2026-10-01",
+  }; // compila ativa com data de revogação?
+
+  type AccessKey =
+    | { status: "active"; id: string; validUntil?: string }
+    | {
+        status: "revoked";
+        id: string;
+        revokedAt: string;
+        revokedReason?: string;
+      }
+    | { status: "expired"; id: string; validUntil: string };
+
+  const a1: AccessKey = { id: "KEY-1", status: "active" }; // Ok
+  const a2: AccessKey = {
+    id: "KEY-2",
+    status: "active",
+    validUntil: "2026-12-31",
+  }; // Ok
+  const r1: AccessKey = {
+    id: "KEY-3",
+    status: "revoked",
+    revokedAt: "2026-10-01",
+  }; // Ok
+  const r2: AccessKey = {
+    id: "KEY-4",
+    status: "revoked",
+    revokedAt: "2026-10-01",
+    revokedReason: "Mudança",
+  }; // Ok
+  const e1: AccessKey = {
+    id: "KEY-5",
+    status: "expired",
+    validUntil: "2026-09-10",
+  }; // Ok
+
+  const bad1: AccessKey = { id: "KEY-6", status: "revoked" }; // falta revokedAt
+  const bad2: AccessKey = { id: "KEY-7", status: "expired" }; // falta validUntil
+  const bad3: AccessKey = {
+    id: "KEY-8",
+    status: "active",
+    revokedAt: "2026-10-01",
+  }; // ativa não tem revokedAt
+
+  function assertNever(value: never): never {
+    throw new Error(`Caso não tratado: ${JSON.stringify(value)}`);
+  }
+
+  function describeKey(key: AccessKey): string {
+    switch (key.status) {
+      case "active":
+        return key.validUntil ? `Ativa até ${key.validUntil}` : "Ativa";
+      case "revoked":
+        return key.revokedReason
+          ? `Revogada em ${key.revokedAt} (${key.revokedReason})`
+          : `Revogada em ${key.revokedAt}`;
+      case "expired":
+        return `Expirou em ${key.validUntil}`;
+      default:
+        return assertNever(key);
+    }
+  }
 }
